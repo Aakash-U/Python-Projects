@@ -1,6 +1,6 @@
 # 🎮 Python Mini Projects Collection
 
-Welcome to my collection of small, fun, and educational Python projects! Each project is self-contained, focuses on core programming concepts, and helps reinforce Python fundamentals. This repo is designed to evolve — new projects will be added regularly.
+Welcome to my collection of small, fun, and educational Python projects! Each project is self-contained, focuses on basic programming concepts, and helps reinforce Python fundamentals. These projects are a part of the Udemy course: 100 Days of Code: The Complete Python Pro Bootcamp by Dr. Angela Yu, and I derive from them as I navigate through the course. The projects are a part of the curriculum Dr. Angela Yu has designed and I do not take credit for the ideas. I will keep adding new projects as I touch more advanced python concepts.
 
 Feel free to explore, learn, and contribute!
 
@@ -10,15 +10,13 @@ Feel free to explore, learn, and contribute!
 
 | Project | Description |
 |--------|-------------|
-| 🃏 [Blackjack](#-blackjack-game) | Classic card game against the dealer |
 | 💰 [Auction](#-auction-game) | Highest bidder wins the item |
+| 🃏 [Blackjack](#-blackjack-game) | Classic card game against the dealer |
 | 🔐 [Caesar Cipher](#-caesar-cipher-encodedecode) | Encode and decode secret messages |
 | 🧮 [Calculator](#-calculator) | Perform basic arithmetic operations |
 | 🎯 [Hangman](#-hangman-game) | Guess the hidden word before lives run out |
 | ✂️ [Rock Paper Scissors](#-rock-paper-scissors-game) | The classic hand game against the computer |
 | 💖 [Love Score Calculator](#-love-score-calculator) | Fun love score based on names |
-
-> ✅ *More projects coming soon! Stay tuned.*
 
 ---
 
@@ -45,7 +43,22 @@ As part of building these Python mini-projects, the following foundational conce
   Handling dynamic user input and interpreting command-line interactions, useful in building interactive tools and prototypes.
 
 > 🔄 This list will grow as I create new projects and explore more advanced concepts.
+
 ---
+
+## 💰 Auction Game
+
+## Description:
+In this auction game, users bid on an item, and the highest bidder wins the item.
+
+## Features:
+- Console-based bidding system.
+- Allows multiple bids and declares the winner at the end.
+
+## How to Run:
+```bash
+python auction.py
+```
 
 ## 🃏 Blackjack Game
 
@@ -60,20 +73,6 @@ A classic game of Blackjack where you play against the dealer. Try to get as clo
 ### How to Run:
 ```bash
 python blackjack.py
-```
-
-## 💰 Auction Game
-
-## Description:
-In this auction game, users bid on an item, and the highest bidder wins the item.
-
-## Features:
-- Console-based bidding system.
-- Allows multiple bids and declares the winner at the end.
-
-## How to Run:
-```bash
-python auction.py
 ```
 # 🔐 Caesar Cipher (Encode/Decode)
 
