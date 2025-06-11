@@ -100,6 +100,25 @@ A basic console calculator that allows users to perform arithmetic operations, i
 ```bash
 python calculator.py
 ```
+# 🤖 Customer Support Chatbot For a Sportsware Store
+
+## Description:
+A simple console-based customer support chatbot for a sports equipment store. It responds to user queries related to product availability, shipping, returns, and equipment troubleshooting across various sports categories.
+
+## Features:
+
+ - Rule-based response system using keyword matching.
+
+ - Covers 11 popular sports: Cricket, Badminton, Football, Pickleball, Table Tennis, Tennis, American Football, Volleyball, Baseball, Basketball, and Skiing.
+
+ - Handles inquiries about product availability, shipping, returns, equipment issues, and more.
+
+ - Gracefully exits on "bye", "exit", or "quit".
+
+ ## How to Run:
+```bash
+python Chatbot.py
+```
 # 🎯 Hangman Game
 
 ## Description:
