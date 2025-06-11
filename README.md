@@ -14,6 +14,7 @@ Feel free to explore, learn, and contribute!
 | 🃏 [Blackjack](#-blackjack-game) | Classic card game against the dealer |
 | 🔐 [Caesar Cipher](#-caesar-cipher-encodedecode) | Encode and decode secret messages |
 | 🧮 [Calculator](#-calculator) | Perform basic arithmetic operations |
+| 🤖 [Customer Support Chatbot](#-customer-support-chatbot) | Instant help and answers for user queries |
 | 🎯 [Hangman](#-hangman-game) | Guess the hidden word before lives run out |
 | ✂️ [Rock Paper Scissors](#-rock-paper-scissors-game) | The classic hand game against the computer |
 | 💖 [Love Score Calculator](#-love-score-calculator) | Fun love score based on names |
