@@ -1,6 +1,6 @@
 # 🎮 Python Mini Projects Collection
 
-Welcome to my collection of small, fun, and educational Python projects! Each project is self-contained, focuses on basic programming concepts, and helps reinforce Python fundamentals. These projects are a part of the Udemy course: 100 Days of Code: The Complete Python Pro Bootcamp by Dr. Angela Yu, and I derive from them as I navigate through the course. The projects are a part of the curriculum Dr. Angela Yu has designed and I do not take credit for the ideas. I will keep adding new projects as I touch more advanced python concepts.
+Welcome to my collection of small, fun, and educational Python projects! Each project is self-contained, focuses on basic programming concepts, and helps reinforce Python fundamentals. Some of these projects are a part of the Udemy course: 100 Days of Code: The Complete Python Pro Bootcamp by Dr. Angela Yu, and I derive from them as I navigate through the course. I do not take credit for the ideas behind the projects that are a part of Dr. Angela Yu's Udemy course curriculum. I will keep adding new projects as I touch more advanced python concepts.
 
 Feel free to explore, learn, and contribute!
 
